@@ -17,54 +17,50 @@ __3.03 GPA__
 
 ## Selected Experience
 
-__`Tax Intern`__
+__`Tax Intern | Crandall & Oseen PA's | Feb - Apr 2022`__
 
-_Crandall & Oseen PA's | Feb - Apr 2022_
 
-Prepared over 200 state and federal tax returns for various entities (individual and business)
 
-Communicated with clients about tax return status
+ Prepared over 200 state and federal tax returns for various entities (individual and business)
 
-Prepared spreadsheets to assist Staff Accountants with client records
+ Communicated with clients about tax return status
+
+ Prepared spreadsheets to assist Staff Accountants with client records
  
 
-__`Degree Verification Lead Processor`__
+__`Degree Verification Lead Processor | BYU-Idaho Office of the Registrar | Jul 2018 - Jan 2022`__
 
- _BYU-Idaho Office of the Registrar | Jul 2018 - Jan 2022_
  
-Pioneered and led project-based innovation team
+ Pioneered and led project-based innovation team
 
-Reduced degree posting process by 67%
+ Reduced degree posting process by 67%
 
-Trained majority of new team members during rebuilding phase
+ Trained majority of new team members during rebuilding phase
 
-Oversaw and reported on progress of various shifts
-
-
-
-
-__`Chief Financial Officer`__
-
-_Teton Sealcoating (Startup) | Apr - Sep 2021_
-
-Oversaw tax and accounting records
-
-Filed state and local business licenses
-
-Assisted in planning on carrying out of projects
+ Oversaw and reported on progress of various shifts
 
 
 
 
-__`Full-Time Volunteer Representative`__
+__`Chief Financial Officer | Teton Sealcoating (Startup) | Apr - Sep 2021`__
 
-_The Church of Jesus Christ of Latter-day Saints | Dec 2015 - Nov 2017_
 
-Learned to fluently speak Portuguese
+ Oversaw tax and accounting records
 
-Led groups of 3-7 volunteers
+ Filed state and local business licenses
 
-Maintained work schedule of 50-60 hours per week
+ Assisted in planning on carrying out of projects
+
+
+
+
+__`Full-Time Volunteer Representative | The Church of Jesus Christ of Latter-day Saints | Dec 2015 - Nov 2017`__
+
+ Learned to fluently speak Portuguese
+
+ Led groups of 3-7 volunteers
+
+ Maintained work schedule of 50-60 hours per week
 
 
 ## Skills
