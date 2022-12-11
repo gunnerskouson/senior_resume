@@ -1,91 +1,86 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# Gunner Skouson - Staff Accountant Panda Accounting
+sko15002@byui.edu | www.linkedin.com/GunnerSkouson | 810.347.8909
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`Brigham Young University-Idaho Dec 2022`
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+__Bachelor of Science in Accounting__
 
 
+__Data Science Certificate__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__3.03 GPA__
 
 
-## Occupation
+## Selected Experience
 
-`1600`
-__Royal Mint__, London
+__`Tax Intern`__
 
-- Warden
-- Minted coins
+_Crandall & Oseen PA's | Feb - Apr 2022_
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Prepared over 200 state and federal tax returns for various entities (individual and business)
+
+Communicated with clients about tax return status
+
+Prepared spreadsheets to assist Staff Accountants with client records
+ 
+
+__`Degree Verification Lead Processor`__
+
+ _BYU-Idaho Office of the Registrar | Jul 2018 - Jan 2022_
+ 
+Pioneered and led project-based innovation team
+
+Reduced degree posting process by 67%
+
+Trained majority of new team members during rebuilding phase
+
+Oversaw and reported on progress of various shifts
 
 
+
+
+__`Chief Financial Officer`__
+
+_Teton Sealcoating (Startup) | Apr - Sep 2021_
+
+Oversaw tax and accounting records
+
+Filed state and local business licenses
+
+Assisted in planning on carrying out of projects
+
+
+
+
+__`Full-Time Volunteer Representative`__
+
+_The Church of Jesus Christ of Latter-day Saints | Dec 2015 - Nov 2017_
+
+Learned to fluently speak Portuguese
+
+Led groups of 3-7 volunteers
+
+Maintained work schedule of 50-60 hours per week
+
+
+## Skills
+
+__Adept at Microsof Excel and VBA__
+
+__Comfortable with database software such as SQL and Access__
+
+__Adequate with data visualization software such as Tableau and Power BI__
+
+__High exposure to Student Information Systems (CX)__
+
+__Familiar with Python__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2022
 
 
